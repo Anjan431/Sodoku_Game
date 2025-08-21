@@ -1,1 +1,1 @@
-{"anjan": "anjan", "ten": "tenn"}
+{"anjan": {"password": "anjan", "stats": {"played": 4, "won": 0, "lost": 4, "best_time": null, "Easy": {"played": 1, "won": 1, "lost": 0, "best_time": 216}, "Medium": {"played": 0, "won": 0, "lost": 0, "best_time": null}, "Hard": {"played": 0, "won": 0, "lost": 0, "best_time": null}}}}

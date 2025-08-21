@@ -47,10 +47,10 @@ def go_back():
 # ---------------- UI Setup ----------------
 root = ctk.CTk()
 root.geometry("400x400")
-root.title("Pac-Man Registration")
+root.title("Sudoku Registration")
 root.configure(fg_color="#2a379c")  # blue background like your screenshot
 
-title = ctk.CTkLabel(root, text="Register for Pac-Man", font=("Helvetica", 20, "bold"), text_color="gold")
+title = ctk.CTkLabel(root, text="Register for Sodoku", font=("Helvetica", 20, "bold"), text_color="gold")
 title.pack(pady=30)
 
 entry_username = ctk.CTkEntry(root, placeholder_text="Username", width=250)
